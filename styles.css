@@ -1,0 +1,64 @@
+#head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(./Shatmatha-Bogra.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 500px;
+    
+
+}
+.head{
+    background-color: rgb(61, 100, 100);
+    padding: 5px;
+    border: 1px solid rgb(61, 100, 100);
+    border-radius: 8px;
+    margin-top: 10%;
+    margin-bottom: 0px;
+}
+.sub-head{
+    background-color: rgb(12, 43, 63);
+    padding: 5px;
+    border: 1px solid rgb(12, 43, 63);
+    border-radius: 8px;
+    margin-top: 8px;
+}
+#middle{
+    background-color: rgb(247, 241, 235);
+    color: rgb(13, 66, 66);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+}
+#middle1{
+ display: flex;
+}
+
+.imj{
+    width: 150px;
+    border-radius: 100%;
+}
+.s{
+    margin: auto;
+    border: 1px solid rgb(247, 241, 235) ;
+    border-width: 20px;
+    
+}
+#card{
+   background-color: rgb(102, 201, 201);
+   margin:  50px auto;
+   padding:15px;
+   width: 500px;
+   height: 300px;
+   display: flex;
+   align-items: center;
+   border-radius: 5px;
+   border-bottom: 5px solid rgb(15, 66, 15);
+   text-align: center;
+}
+
