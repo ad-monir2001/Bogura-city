@@ -62,3 +62,9 @@
    text-align: center;
 }
 
+#card:hover{
+    color:gold;
+    border: 10px  solid  gold ;
+
+}
+
